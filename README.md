@@ -13,3 +13,5 @@ Then
 python3 *_test.py
 ```
 
+For more information on this project, you can see **intro to proj.pdf**
+
